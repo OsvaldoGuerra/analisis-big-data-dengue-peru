@@ -15,7 +15,7 @@ Este repositorio contiene el código fuente y la documentación oficial del proy
 En este repositorio podrás auditar los siguientes componentes de la investigación:
 
 * 💻 **Scripts de PySpark y SQL:** Código fuente para la limpieza, transformación y análisis descriptivo de los datos.
-* 📄 **[Leer el Informe Final de la Investigación (PDF)](./[Informe_Final_Analisis_Dengue.pdf])** <- *(Haz clic aquí para leer la tesis completa, gráficos y conclusiones)*.
+* 📄 **[Leer el Informe Final de la Investigación (PDF)](./Informe_Final_Analisis_Dengue.pdf)** <- *(Haz clic aquí para leer la tesis completa, gráficos y conclusiones)*.
 
 ## 🗄️ Fuentes de Datos (Open Data)
 Bajo los estándares de arquitectura Big Data y las políticas de almacenamiento de GitHub, los archivos planos transaccionales no se encuentran versionados en este repositorio debido a su gran volumen (>100 MB). 
